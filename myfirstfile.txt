@@ -3,9 +3,6 @@ Hello world
 Hello there, this is Linda Lyu bl2621 messing with your file
 This is Linda bl2621 messing with your file
 whatever
-<<<<<<< HEAD
 this is gonna go wrong...
 this is gonna go wrong
-=======
 AAAAAAAAAAAAAAA
->>>>>>> f9d8ca5f8eb0e1f2ba9e47f418ff302b6c64fdf0
